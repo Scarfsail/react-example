@@ -1,0 +1,18 @@
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
+.pull-right{
+    margin-left: auto;    
+}
+

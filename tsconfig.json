@@ -1,0 +1,21 @@
+﻿{
+  "compilerOptions": {
+    "outDir": "./compiledTypeScript/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es2015",
+    "target": "es2017",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "noEmitOnError": true,
+    "preserveConstEnums": false,
+    "baseUrl": "./",
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
